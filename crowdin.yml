@@ -1,0 +1,3 @@
+files:
+  - source: spec.html
+    translation: '%original_file_name%.%language%%file_extension%'
