@@ -35,14 +35,14 @@ ECMA-262 第六版项目作者
   </p>
   <p>
     Brian Terlson<br>
-    ECMA-262, 7<sup>th</sup> Edition Project Editor
+ECMA-262 第七版项目作者
   </p>
 </emu-intro>
 
 <!-- es6num="1" -->
 <emu-clause id="sec-scope">
-  <h1>Scope</h1>
-  <p>This Standard defines the ECMAScript 2018 general-purpose programming language.</p>
+  <h1>范围</h1>
+  <p>本标准定义 ECMAScript 2018 通用编程语言。</p>
 </emu-clause>
 
 <!-- es6num="2" -->
